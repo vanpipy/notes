@@ -133,3 +133,24 @@ Set-Cookie: <cookie-name>=<cookie-value>; Domain=<domain-value>; Path=<path-valu
 * Redirection 3XX
 * Client Error 4XX
 * Server Error 5XX
+
+## HTTP Headers
+* [Accept](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept)
+* [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type)
+* [Allow](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Allow) - `405 Method Not Allowed`
+* [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie)
+* [Expires](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expires)
+* [Age](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Age)
+* [Cache-Control](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
+* [Etag](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag)
+* [Last-Modified](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified)
+* [Connection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection)
+* [Keep-Alive](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive)
+* [Vary](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary)
+* [Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin)
+* [Server](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server)
+* [Host](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host)
+* [Access-Control-*](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+## References
+* [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
